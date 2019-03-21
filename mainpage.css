@@ -1,0 +1,30 @@
+.c h1
+{
+	font-family:Helvetica;
+	text-align:center;
+	padding:50px;
+	width:80%;
+	color:blue;
+	font-size:50px;
+}
+.login 
+{
+	text-align:center;
+	font-family:sans-serif;
+	padding:50px;
+	width:80%;
+	color:red;
+	font-size:20px;
+}
+a:active
+{
+	color:blue;
+}
+a:visited
+{
+	color:gray;
+}
+a:hover
+{
+	color:red;
+}
